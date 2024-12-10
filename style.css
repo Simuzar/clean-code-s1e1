@@ -4,25 +4,25 @@ body {
   color: #333;
   font-family: Lato, sans-serif;
 }
-.aaa {
+.image-block {
   width: 500px;
   margin: 0 auto;
   display: block;
   text-align: right;
 }
-.aaa img {
+.image-block img {
   width: 100%;
 }
-.aaa .more_inf {
+.image-block .more_inf {
   font-family: fantasy, cursive;
 }
 
 @media (max-width:768px) {
-  .aaa {
+  .image-block {
     text-align: center;
   }
 }
-.main-page-element {
+.main {
   display: block;
   width: 500px;
   margin: 0 auto 0;
